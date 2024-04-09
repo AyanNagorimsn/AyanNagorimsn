@@ -1,11 +1,10 @@
 <p align="center" border-radius="10px">
-  <a href="https://ayannagori.vercel.app/" target="_blank" rel="noreferrer"><img width="100%" src="https://github.com/ParallelXL/ParallelXL/assets/134038947/b62412a7-e51e-40c3-84e2-b95a7889a687" alt="banner" /></a>
+  <a href="https://ayannagori.vercel.app/" target="_blank" rel="noreferrer"><img width="100%" src="https://github.com/AyanNagorimsn/AyanNagorimsn/assets/166312599/f877069e-e05f-4509-a7ff-3262135cb6db" alt="banner" /></a>
 </p>
 
 <h1>👋 Hi, I’m Ayan Nagori </h1>
-<span>Also Named as <b>ParallelXL</b> online🙌</span>
 <br>
-<p>I have a passion in making modern UI/UX designs, Right now I am focusing on front-end technologies like react. I have a coding experience of  year now. If you want any work done then don't hesitate to reach me.</p>
+<p>A dedicated UI/UX designer fueled by a passion for crafting modern user-experiences. My journey into coding began in 2021, and since late 2023, I've been fully immersed in mastering front-end technologies, with a particular focus on React and Next.js. I thrive on the challenge of blending creativity with functionality to deliver intuitive designs that resonate with users. Let's collaborate and bring your ideas to life! 💻✨. You already know that this text is AI generated from readin that text but I dont have time so deal with it</p>
 
 <br>
 <h4>👀 I'm interested in new Front-end technologies like NextJs, Threejs, React and Sass</h4>
@@ -33,17 +32,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-555555.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<p>Other</p>
-
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-f7bac0?style=for-the-badge&logo=mdnwebdocs&logoColor=black)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 
 <br><br>
 <h1 align='center'>🤙Connect With Me</h1>
-<p>Mail on ayanmsn07@gmail.com</p>
-<p>Or send a message through contact forms on <a target='_blank' href='https://ayannagori.vercel.app/'>My Portfolio Website</a></p>
+<p>Mail on ayannagorimsn@gmail.com</p>
+<p>Or send a message through contact form on <a target='_blank' href='https://ayannagori.vercel.app/'>My Portfolio Website</a></p>
