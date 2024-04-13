@@ -1,10 +1,10 @@
 <p align="center" border-radius="10px">
-  <a href="https://ayannagori.vercel.app/" target="_blank" rel="noreferrer"><img width="100%" src="https://github.com/AyanNagorimsn/AyanNagorimsn/assets/166312599/f877069e-e05f-4509-a7ff-3262135cb6db" alt="banner" /></a>
+  <a href="https://ayannagori.vercel.app/" target="_blank" rel="noreferrer"><img width="100%" src="https://github.com/AyanNagorimsn/AyanNagorimsn/assets/166312599/c06dacfd-6537-431a-b52b-eb5fba8af1f6" alt="banner" /></a>
 </p>
 
 <h1>👋 Hi, I’m Ayan Nagori </h1>
 <br>
-<p>A dedicated UI/UX designer fueled by a passion for crafting modern user-experiences. My journey into coding began in 2021, and since late 2023, I've been fully immersed in mastering front-end technologies, with a particular focus on React and Next.js. I thrive on the challenge of blending creativity with functionality to deliver intuitive designs that resonate with users. Let's collaborate and bring your ideas to life! 💻✨. You already know that this text is AI generated from readin that text but I dont have time so deal with it</p>
+<p>I'm a UI/UX designer who loves making things look good and easy to use. I started learning to code in 2021, and since late 2023, I've been focusing on getting really good at using React and Next.js for front-end design. I enjoy mixing creativity with practicality to make designs that people love using. Let's work together to make your ideas real! 💻✨</p>
 
 <br>
 <h4>👀 I'm interested in new Front-end technologies like NextJs, Threejs, React and Sass</h4>
